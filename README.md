@@ -11,7 +11,7 @@ A Python expense tracking application with a **command-line version** and a **we
 
 ## Demo
 - Live app: https://expense-tracker-python-99iestvwbuq4ofgyxxdigf.streamlit.app/
-- Demo video: _add your video link here_
+- Demo video: "C:\Users\SRKIT\Videos\Captures\Expense Tracker · Streamlit - Google Chrome 2026-10-23 15-23-52.mp4"
 
 ## Project Structure
 ```
