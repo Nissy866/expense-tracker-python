@@ -10,7 +10,7 @@ A Python expense tracking application with a **command-line version** and a **we
 - Web dashboard with charts, deployable free on Streamlit Community Cloud
 
 ## Demo
-- Live app: _add your Streamlit link here_
+- Live app: https://expense-tracker-python-99iestvwbuq4ofgyxxdigf.streamlit.app/
 - Demo video: _add your video link here_
 
 ## Project Structure
